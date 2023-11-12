@@ -17,14 +17,6 @@
               "none": ["01:07"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://broadnaxmicha.github.io/practice/annotations/joe-reed-side-a-canvas-1-00-34.json",
-            "label": {
-              "none": ["00:34"]
-            }
-          }
         ],
         "items": [
           {
