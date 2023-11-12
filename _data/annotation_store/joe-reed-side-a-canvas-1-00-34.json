@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://broadnaxmicha.github.io/practice/annotations/joe-reed-side-a-canvas-1-00-34.json",
+  "type": "AnnotationPage",
+  "label": "00:34",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-reed-side-a-canvas-1-00-34-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Yes",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "school teacher. I entered Alabama State College",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.0,66.0"
+        }
+      }
+    }
+  ]
+}

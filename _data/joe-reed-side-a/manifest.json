@@ -8,6 +8,32 @@
         "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2921.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://broadnaxmicha.github.io/practice/annotations/joe-reed-side-a-canvas-1-01-07.json",
+            "label": {
+              "none": ["01:07"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://broadnaxmicha.github.io/practice/annotations/joe-reed-side-a-canvas-1-00-34.json",
+            "label": {
+              "none": ["00:34"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://broadnaxmicha.github.io/practice/annotations/joe-reed-side-a-canvas-1-00-03.json",
+            "label": {
+              "none": ["00:03"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/paintings",
