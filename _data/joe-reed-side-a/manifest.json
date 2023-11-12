@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Joe Reed - side A" ] },
+    "items": [
+      {
+        "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2921.0,
+        "items": [
+          {
+            "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://app.notta.ai/share/0cdefb84-5551-491d-b40e-778ea615f481?lang=en-US&t=3e3eaf0d1525723d7226b1a248d54871",
+                    "duration": 2921.0
+                },
+                "target": "https://broadnaxmicha.github.io/practice/joe-reed-side-a/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
